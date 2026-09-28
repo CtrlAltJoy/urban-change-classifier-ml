@@ -1,0 +1,13 @@
+# Données de la compétition (non redistribuables, voir README)
+data/*.geojson
+data/cache/
+submissions/
+# Sorties générées
+submissions/
+models/
+
+# Environnement
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
